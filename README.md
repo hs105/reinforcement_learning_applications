@@ -1,0 +1,2 @@
+# reinforcement_learning_for_robotics
+reading list
