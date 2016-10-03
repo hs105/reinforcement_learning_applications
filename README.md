@@ -1,13 +1,13 @@
 # reinforcement learning applications
-reading list
 
-- Robotics [Survey 1](http://www.ri.cmu.edu/pub_files/2013/7/Kober_IJRR_2013.pdf)
-- Robotics [Survey 2](http://kormushev.com/papers/Kormushev_MDPI_2013.pdf)
-- [Atari Game] (https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
+- Robotics Survey1 [pdf](http://www.ri.cmu.edu/pub_files/2013/7/Kober_IJRR_2013.pdf)
+- Robotics Survey 2 [pdf](http://kormushev.com/papers/Kormushev_MDPI_2013.pdf)
+- Inverted autonomous helicopter flight via reinforcement learning, by Andrew Y. Ng, Adam Coates, Mark Diel, Varun Ganapathi, Jamie Schulte, Ben Tse, Eric Berger and Eric Liang. In International Symposium on Experimental Robotics, 2004. [pdf](http://www.robotics.stanford.edu/~ang/papers/iser04-invertedflight.pdf)
+- Atari Game [pdf] (https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
 
-- [Inventory control](http://web.engr.oregonstate.edu/~tadepall/papers/Proper06Scaling.pdf)
+- Inventory control [pdf](http://web.engr.oregonstate.edu/~tadepall/papers/Proper06Scaling.pdf)
 
-- [Trading](http://people.idsia.ch/~juergen/rnnaissance2003talks/MoodySaffellTNN01.pdf)
+- Trading [pdf](http://people.idsia.ch/~juergen/rnnaissance2003talks/MoodySaffellTNN01.pdf)
 
 - Elevator Group Control Using Multiple Reinforcement Learning Agents, 
 ROBERT H. CRITES, ANDREW G. BARTO, Machine Learning, 33, 235–262 (1998), [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.464.6183&rep=rep1&type=pdf)
