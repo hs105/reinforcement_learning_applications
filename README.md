@@ -26,5 +26,6 @@ Adaptive Behavior, 2005. [pdf](http://www.cs.utexas.edu/users/pstone/Papers/bib2
 
 - [Traffic Light control](http://ac.els-cdn.com/S2352146515002574/1-s2.0-S2352146515002574-main.pdf?_tid=e2365faa-80e2-11e6-9382-00000aab0f01&acdnat=1474562442_87223e8c1d5b2c5eebce165850035f3b)
 
-- [Traffic Light control 2](https://staff.science.uva.nl/s.a.whiteson/pubs/kuyerecml08.pdf)
+- [Traffic light control 2](https://staff.science.uva.nl/s.a.whiteson/pubs/kuyerecml08.pdf)
 
+- [Traffic light control 3](http://www.cs.ox.ac.uk/people/shimon.whiteson/pubs/bakkericis10.pdf)
