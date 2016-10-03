@@ -2,7 +2,7 @@
 
 - Reinforcement Learning in Robotics: A Survey. Jens Kober, J. Andrew Bagnell, Jan Peters. [pdf](http://www.ri.cmu.edu/pub_files/2013/7/Kober_IJRR_2013.pdf)
 
-- Robotics Survey 2 [pdf](http://kormushev.com/papers/Kormushev_MDPI_2013.pdf)
+- Reinforcement Learning in Robotics: Applications and Real-World Challenges. Petar Kormushev, Sylvain Calinon and Darwin G. Caldwell [pdf](http://kormushev.com/papers/Kormushev_MDPI_2013.pdf)
 
 - Inverted autonomous helicopter flight via reinforcement learning, by Andrew Y. Ng, Adam Coates, Mark Diel, Varun Ganapathi, Jamie Schulte, Ben Tse, Eric Berger and Eric Liang. In International Symposium on Experimental Robotics, 2004. [pdf](http://www.robotics.stanford.edu/~ang/papers/iser04-invertedflight.pdf)
 
